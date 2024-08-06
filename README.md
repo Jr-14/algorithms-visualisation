@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Algorithm's Visualisation
+A repo to visualise algorithms.
+
+Supported algorithms
+- [ ] Bubble Sort
+- [ ] Insertion Sort
 
 ## Getting Started
 
