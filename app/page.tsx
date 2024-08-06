@@ -9,6 +9,8 @@ export default function Home() {
         <Bar height='20px'/>
         <Bar height='40px'/>
         <Bar height='60px'/>
+        <Bar height='80px'/>
+        <Bar height='100px'/>
       </div>
     </div>
   );
