@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
+import './global.css';
+
 export const metadata: Metadata = {
   title: "Visualising Algorithms",
   description: "Visualising Algorithms are fun",
